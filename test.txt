@@ -1,2 +1,3 @@
 Test
 git config --global user.name Hanns Kociumaka git config --global user.email hanns.kociumaka@gmail.com
+Test
